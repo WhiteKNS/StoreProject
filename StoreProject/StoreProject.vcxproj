@@ -131,12 +131,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ClientControl.cpp" />
     <ClCompile Include="StoreProject.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\StoreLibrary\StoreLibrary.vcxproj">
       <Project>{678535f2-8ab7-4b0b-aa60-0e826a4d6b84}</Project>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ClientControl.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
