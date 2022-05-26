@@ -9,7 +9,7 @@ project ("StoreApps")
 set(CMAKE_CXX_STANDARD 17)
 
 # Include sub-projects.
-add_subdirectory ("Server")
+add_subdirectory ("StoreLibrary")
 add_subdirectory ("StoreProject")
 
 if(NOT DEFINED CMAKE_BUILD_TYPE OR CMAKE_BUILD_TYPE MATCHES "")
