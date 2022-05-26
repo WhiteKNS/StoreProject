@@ -6,7 +6,7 @@
 #include <stdio.h>
 #include <iostream>
 #include <map>
-#include "../Server/Products.h"
+#include "../StoreLibrary/Products.h"
 
 #define GETALLFAMILIES 1
 #define GETALLPRODUCTS 2
