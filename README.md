@@ -8,6 +8,6 @@ DatabaseWorker is a very simple scheduler which updates .json data every 100ms. 
 
 So far everything is built for Windows for all configurations. As for cmake - unfortunately I'm not an expert in it, as I said, I used to fix some parts in CMake, but I've never written full projects in it. So for now everything is set up in Visual Studio, json library is a Git's submodule.
 
-If I still have some time, I can figure out Cmake and remember what needs to be finished.
+If I still have some time, I can figure out Cmake and remember what needs to be done.
 
 In terms of time it took a whole day to complete. The project is not complicated, but it is very cumbersome. And of course that's possible to spend weeeks to implement everything
