@@ -1,0 +1,6 @@
+[submodule "StoreLibrary"]
+	path = StoreLibrary
+	url = https://github.com/WhiteKNS/StoreLibrary.git
+[submodule "json-develop"]
+	path = json-develop
+	url = https://github.com/nlohmann/json.git
