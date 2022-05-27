@@ -10,4 +10,4 @@ So far everything is built for Windows for all configurations. As for cmake - un
 
 If I still have some time, I can figure out Cmake and remember what needs to be done.
 
-In terms of time it took a whole day to complete. The project is not complicated, but it is very cumbersome. And of course that's possible to spend weeeks to implement everything
+In terms of time it took 2 whole days to complete. The project is not complicated, but it is very cumbersome.
